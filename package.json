@@ -1,0 +1,28 @@
+{
+  "name": "SafeTechEmailServer",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000s\u0000a\u0000f\u0000e\u0000t\u0000e\u0000c\u0000h\u0000\r\u0000 \u0000",
+  "main": "EmailServer.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node": "^15.3.0",
+    "nodemailer": "^6.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node EmailServer.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathmesh16/safetech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathmesh16/safetech/issues"
+  },
+  "homepage": "https://github.com/prathmesh16/safetech#readme"
+}
